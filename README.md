@@ -1,4 +1,3 @@
-# Uber's-Booking-Analysis
 # **Uber Ride Data Analysis: SQL and Power BI Insights**  
 
 ## **Project Overview**  
